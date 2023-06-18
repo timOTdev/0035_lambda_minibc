@@ -1,6 +1,8 @@
-# Lambda School Mini Bootcamp
+# 0035_lambda_minibc
 
-# Start 5/7/2018
+## Lambda School Mini Bootcamp
+
+## Start 5/7/2018
 
 ## [Syllabus](https://learn.lambdaschool.com/fsw-pre/sprint/recw0xx1timtjaq3d)
 
@@ -119,6 +121,12 @@ this is awesome! i like hearing about your guys' individual paths
 i hope lambdaschool can serve to further each of you as much as possible
 personally, I dropped out of college to go pro in a videogame (if you've heard of it, it's called Overwatch) and then I used my inroads there to get involved with software engineering. I was overwhelmed with my first job as a front end web developer and I eventually discovered Lambda School, so I quit my job to join lambda and i've been here since then (like 8 months now?) both as a student and a Project Manager
 one of my favourite things about software engineering is the fact that there's so many unique ways to get where you want to go
+```
+
+```plain
+6. Do we have access to past recent lectures to watch if we are accepted into the program? Definitely helps with learning as you guys suggest in the syllabus too.
+
+You do! All of the lectures are recorded and the link is shared shortly after they end.
 ```
 
 # Day 2 HTML and CSS Fundamentals
